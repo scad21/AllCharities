@@ -1,0 +1,20 @@
+<html>
+<head>
+<title> All Charities </title>
+</head>
+<link rel="stylesheet" type="text/css" href="AllCharities.css"
+<body>
+<ul>
+	<li> Health </li>
+	<li> Environment </li>
+	<li> Women's issues </li>
+</ul>
+
+<h1>
+<link href='https://fonts.googleapis.com/css?family=Playfair+Display+SC:400,700italic' rel='stylesheet' type='text/css'> All Charities </h1>
+<h2> The online charity finder that makes it easy to find out where your money goes ... </h2>
+
+
+
+</body>
+</html>
