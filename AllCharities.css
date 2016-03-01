@@ -1,0 +1,42 @@
+ul {
+	list-style:none;
+	background:white;
+	color:black;
+	font-size: 22pt;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	position:fixed;
+	top:0;
+	width:100%;
+	position:absolute;
+}
+
+li {
+	float:left;
+	display:block;
+	text-align:center;
+	padding:14px 16px;
+	background:white;
+	color:black;
+	text-decoration:none;
+
+}
+li:hover {
+	background:black;
+	color:white;
+}
+body {
+	background:black;
+	color:white;
+	margin:auto;
+	padding:100px 0 0 0;
+}
+h1 {
+	font-family: 'Playfair Display SC', serif;
+	text-align:center;
+
+}
+h2 { 
+	text-align:center;
+}
