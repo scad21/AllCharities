@@ -1,7 +1,16 @@
-ul {
+#nav_div{
+	float:right;
+	margin:0 auto;
+	text-align:center;
+	width:100%;
+	background:black;
+	color:white;
+}
+
+#nav {
 	list-style:none;
-	background:white;
-	color:black;
+	background:black;
+	color:white;
 	font-size: 22pt;
 	margin:0;
 	padding:0;
@@ -13,25 +22,51 @@ ul {
 }
 
 li {
-	float:left;
-	display:block;
+	/*float:left;*/
+	display:inline;
 	text-align:center;
 	padding:14px 16px;
-	background:white;
-	color:black;
+	background:black;
+	color:white;
 	text-decoration:none;
 
 }
 li:hover {
-	background:black;
+	background:white;
+}
+a {
 	color:white;
 }
-body {
+a:hover {
+	color:black;
+}
+
+body{
+	background:url ("http://i529.photobucket.com/albums/dd335/summerboi74/Black%20And%20White%20Prints/LightBulb.jpg");
 	background:black;
 	color:white;
 	margin:auto;
 	padding:100px 0 0 0;
 }
+
+img {
+	background-size:100%;
+	opacity:0.6;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+/*div.background{
+
+	background:transparent url("http://i529.photobucket.com/albums/dd335/summerboi74/Black%20And%20White%20Prints/LightBulb.jpg");
+	border:2px solid black;
+	background-size:100% 100%;
+	
+}*/
+
+
+
 h1 {
 	font-family: 'Playfair Display SC', serif;
 	text-align:center;
@@ -40,3 +75,6 @@ h1 {
 h2 { 
 	text-align:center;
 }
+p{ 
+text-align:center;}
+
