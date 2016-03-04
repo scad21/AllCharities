@@ -1,0 +1,46 @@
+#nav_div{
+	float:right;
+	margin:0 auto;
+	position:fixed;
+	top:40;
+	text-align:center;
+	width:100%;
+	background:black;
+	color:white;
+}
+
+#nav {
+	list-style:none;
+	background:black;
+	color:white;
+	font-size: 22pt;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	position:fixed;
+	top:0;
+	width:100%;
+	position:absolute;
+}
+
+li {
+	/*float:left;*/
+	display:inline;
+	text-align:center;
+	padding:14px 16px;
+	background:black;
+	color:white;
+	text-decoration:none;
+
+}
+li:hover {
+	background:black;
+}
+a {
+	color:white;
+
+}
+a:hover {
+	color:#FF4500;
+	decoration:none;
+}
