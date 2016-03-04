@@ -1,6 +1,8 @@
 #nav_div{
 	float:right;
 	margin:0 auto;
+	position:fixed;
+	top:40;
 	text-align:center;
 	width:100%;
 	background:black;
@@ -32,17 +34,18 @@ li {
 
 }
 li:hover {
-	background:white;
+	background:black;
 }
 a {
 	color:white;
+
 }
 a:hover {
-	color:black;
+	color:#FF4500;
+	decoration:none;
 }
 
 body{
-	background:url ("http://cdn.instantshift.com/media/uploads/2009/12/beobawp.jpg");
 	background:black;
 	color:white;
 	margin:auto;
@@ -51,10 +54,12 @@ body{
 
 img {
 	background-size:100%;
-	opacity:0.6;
+	opacity:0.45;
 	display:block;
 	margin-left:auto;
 	margin-right:auto;
+	max-width:518.4px;
+	height:345.6px;
 }
 
 /*div.background{
@@ -68,13 +73,31 @@ img {
 
 
 h1 {
-	font-family: 'Playfair Display SC', serif;
+	font-family: 'Noto Sans', sans-serif;
+	font-size:50px;
 	text-align:center;
 
 }
+
+hr{
+	display:block;
+	margin-top:0.5em;
+	margin-bottom:0.5em;
+	margin-left:500px;
+	margin-right:500px;
+	border-style:inset;
+	border-width:5px;
+	border-color:#FF4500;
+
+
+}
+
 h2 { 
 	text-align:center;
+	display:block;
 }
 p{ 
-text-align:center;}
+	text-align:center;
+	display:block;
+}
 
