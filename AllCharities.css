@@ -45,6 +45,10 @@ a:hover {
 	decoration:none;
 }
 
+a:active{
+	color:#FF4500; 
+}
+
 body{
 	background:black;
 	color:white;
