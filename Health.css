@@ -1,4 +1,4 @@
-#nav_div{
+#nav_div {
 	float:right;
 	margin:0 auto;
 	position:fixed;
@@ -17,7 +17,7 @@
 	margin:0;
 	padding:0;
 	overflow:hidden;
-	position:fixed;
+	position:relative;
 	top:0;
 	width:100%;
 	position:absolute;
@@ -31,23 +31,68 @@ li {
 	background:black;
 	color:white;
 	text-decoration:none;
-
 }
+
 li:hover {
 	background:black;
 }
 a {
 	color:white;
-
 }
 a:hover {
 	color:#FF4500;
 	decoration:none;
 }
 body {
-	background: black;
-}
-h1 {
+	background:black;
 	color:white;
+}
+
+/*h1 {
+	position: relative;
+	color:white;
+}*/
+
+h1{
+	position: relative;
 	text-align:center;
+	padding: 100px 0 0 0;
+}
+#pic1 {
+	display:inline-block;
+	max-width:250px;
+	height:125px;
+}
+#pic2 {
+	display:inline-block;
+	max-width:350px;
+	height:125px;
+}
+#pic3 {
+	display:inline-block;
+	max-width:275px;
+	height:125px;
+}
+.col-sm-4 {
+	display:inline-block;
+	text-align:center;
+}
+.centrepage {
+	margin: 0 50px 0 50px;
+}
+#info {
+	display:inline-block;
+}
+h4 {
+	color:#FF4500;
+}
+
+#mainpic {
+	background-size:100%;
+	opacity:0.45;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	max-width:518.4px;
+	height:345.6px;
 }
