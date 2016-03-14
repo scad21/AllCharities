@@ -1,7 +1,7 @@
 #nav_div{
 	float:right;
 	margin:0 auto;
-	position:relative;
+	position:fixed;
 	top:40;
 	text-align:center;
 	width:100%;
