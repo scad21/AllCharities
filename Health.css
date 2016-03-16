@@ -12,15 +12,15 @@
   
   /* non-critical appearance styles */
   list-style: none;
-  background: #000;
+  background: #111;
 }
 
 /* Navigation Menu - List items */
 .nav-item {
   /* non-critical appearance styles */
   width: 200px;
-  border-top: 1px solid #111;
-  border-bottom: 1px solid #000;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #111;
 }
 
 .nav-item a {
