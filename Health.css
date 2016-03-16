@@ -24,8 +24,8 @@
 
 li {
 	/*float:left;*/
-	display:inline;
-	text-align:center;
+	display:block;
+	text-align: left;
 	padding:14px 16px;
 	background:black;
 	color:white;
