@@ -36,7 +36,7 @@
 
 .nav-item a:hover {
   color: #c74438;
-  background: linear-gradient(135deg, rgba(0,0,0,0) 0%,rgba(168,0,0,0.65) 100%);
+  background: black;
 }
 
 /* Site Wrapper - Everything that isn't navigation */
@@ -74,7 +74,7 @@ label[for="nav-trigger"] {
   height: 30px;
   width: 30px;
   cursor: pointer;
-  background-image: url("https://tse2.mm.bing.net/th?id=OIP.M215d871f7047e028edb88e1785805963o0&pid=Api");
+  background-image: url("https://tse3.mm.bing.net/th?id=OIP.Mf92ba2a2d45fb602deee1f359d3d4d6do0&pid=Api");
   background-size: contain;
 }
 
