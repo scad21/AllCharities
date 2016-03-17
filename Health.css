@@ -91,7 +91,9 @@ label[for="nav-trigger"] {
   left: 200px;
   box-shadow: 0 0 5px 5px rgba(0,0,0,0.5);
 }
-
+#menu {
+	color:white;
+}
 body {
 	/* Without this, the body has excess horizontal scroll when the menu is open */
   overflow-x: hidden;
