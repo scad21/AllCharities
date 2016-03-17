@@ -91,7 +91,7 @@ label[for="nav-trigger"] {
   left: 200px;
   box-shadow: 0 0 5px 5px rgba(0,0,0,0.5);
 }
-#menu {
+.menu {
 	color:white;
 }
 body {
