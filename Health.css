@@ -8,12 +8,16 @@
   right: 0;
   bottom: 0;
   left: 0;
-  z-index: 0;
+  z-index: 0; }
   
-  /* non-critical appearance styles */
-  list-style: none;
-  background: black;
-}
+ body {
+  
+      background: url("http://dash.ga.co/assets/anna-bg.png");
+      background-size:  cover;
+      background-position:  center;
+     
+    }
+
 
 /* Navigation Menu - List items */
 .nav-item {
