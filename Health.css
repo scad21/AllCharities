@@ -114,7 +114,10 @@ code {
 html, body { height: 100%; width: 100%; font-family: Helvetica, Arial, sans-serif; }		
 
 
-
+#centreimage {
+	align:centre
+	
+}
 body {
 	background:black;
 	color:white;
