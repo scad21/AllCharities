@@ -118,14 +118,14 @@ html, body { height: 100%; width: 100%; font-family: Helvetica, Arial, sans-seri
 
 #slide {
     position: absolute;
-    left: -100px;
+    left: -700px;
     width: 100px;
     height: 100px;
     background: blue;
     -webkit-animation: slide 0.5s forwards;
     -webkit-animation-delay: 2s;
-    animation: slide 0.5s forwards;
-    animation-delay: 2s;
+    animation: slide 2s forwards;
+    
 }
 
 @-webkit-keyframes slide {
