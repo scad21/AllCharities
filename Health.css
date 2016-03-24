@@ -98,7 +98,7 @@ body {
 	/* Without this, the body has excess horizontal scroll when the menu is open */
   overflow-x: hidden;
   background-image:url"https://static.pexels.com/photos/24746/pexels-photo-24746.jpg" ;
-  background-repeat:no repeat;
+  background size: auto;
 }
 
 /* Additional non-critical styles */
