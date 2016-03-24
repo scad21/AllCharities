@@ -123,7 +123,7 @@ html, body { height: 100%; width: 100%; font-family: Helvetica, Arial, sans-seri
     height: 100px;
     -webkit-animation: slide 2s forwards;
     -webkit-animation-delay: 2s;
-    animation: slide 2s forwards;
+    animation: slide 4s forwards;
     text-align: center;
     
 }
