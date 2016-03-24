@@ -119,7 +119,7 @@ html, body { height: 100%; width: 100%; font-family: Helvetica, Arial, sans-seri
 #slide {
     position: relative;
     left: -1500px;
-    width: 1250px;
+    width: 1500px;
     height: 100px;
     -webkit-animation: slide 0.5s forwards;
     -webkit-animation-delay: 2s;
