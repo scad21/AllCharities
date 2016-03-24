@@ -118,7 +118,8 @@ html, body { height: 100%; width: 100%; font-family: Helvetica, Arial, sans-seri
 
 #slide {
     position: absolute;
-    right: -1000px;
+    align: center;
+    left: -1000px;
     width: 100px;
     height: 100px;
     background: blue;
