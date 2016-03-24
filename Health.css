@@ -188,3 +188,10 @@ h4 {
 	max-width:518.4px;
 	height:345.6px;
 }
+#banner {
+	height: 100px;
+	width: 640px;
+	position: relative;
+	bottom: 0px;
+	background-color: #838B8B;
+}
