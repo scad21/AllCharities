@@ -107,7 +107,8 @@ h1, h3, p {
   margin: 0 auto 1em;
   text-align:left;
 }
-
+p {text-align:center;
+}
 code {
 	padding: 2px;
 	background: #ddd;
