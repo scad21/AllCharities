@@ -149,6 +149,7 @@ body {
 	background:black;
 	color:white;
 	padding: -40px 0 0 0;
+	text-align: left;
 }
 
 /*h1 {
@@ -172,6 +173,7 @@ h1{
 }
 h4 {
 	color:#FF4500;
+	text-align:left;
 }
 
 #mainpic {
