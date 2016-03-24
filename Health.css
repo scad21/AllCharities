@@ -190,7 +190,7 @@ h4 {
 }
 #banner {
 	height: 100px;
-	max-width: 640px;
+	max-width: 1000px;
 	position: fixed;
 	bottom: 0px;
 	background-color: #838B8B;
