@@ -191,7 +191,7 @@ h4 {
 #banner {
 	height: 100px;
 	width: 640px;
-	position: relative;
+	position: absolute;
 	bottom: 0px;
 	background-color: #838B8B;
 }
