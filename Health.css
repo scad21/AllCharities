@@ -159,25 +159,13 @@ h1{
 	position: relative;
 	text-align:center;
 	padding: 10px 0 0 0;
+	font-size:200%;
 }
-#pic1 {
-	display:inline-block;
-	max-width:250px;
-	height:125px;
-}
-#pic2 {
-	display:inline-block;
-	max-width:350px;
-	height:125px;
-}
-#pic3 {
-	display:inline-block;
-	max-width:275px;
-	height:125px;
-}
+
+
 .col-sm-4 {
 	display:inline-block;
-	text-align:center;
+	text-align:left;
 }
 .centrepage {
 	margin: 0 50px 0 50px;
