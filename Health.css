@@ -117,10 +117,9 @@ code {
 html, body { height: 100%; width: 100%; font-family: Helvetica, Arial, sans-serif; }		
 
 #slide {
-    position: absolute;
-    align: center;
+    position: center;
     left: -1000px;
-    width: 100px;
+    width: 1000px;
     height: 100px;
     background: blue;
     -webkit-animation: slide 0.5s forwards;
