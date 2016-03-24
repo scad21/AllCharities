@@ -120,7 +120,7 @@ html, body { height: 100%; width: 100%; font-family: Helvetica, Arial, sans-seri
 #slide {
     position: relative;
     left: -1500px;
-    width: 2000px;
+    width: 2250px;
     height: 0px;
     -webkit-animation: slide 2s forwards;
     -webkit-animation-delay: 2s;
@@ -164,10 +164,6 @@ h1{
 }
 
 
-.col-sm-4 {
-	display:inline-block;
-	text-align:left;
-}
 .centrepage {
 	margin: 0 50px 0 50px;
 }
