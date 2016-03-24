@@ -189,8 +189,8 @@ h4 {
 	height:345.6px;
 }
 #banner {
-	height: 100px;
-	width: 640px;
+	height: 200px;
+	max-width: 1000px;
 	position: fixed;
 	bottom: 0px;
 	background-color: #838B8B;
