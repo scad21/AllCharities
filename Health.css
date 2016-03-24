@@ -125,6 +125,7 @@ html, body { height: 100%; width: 100%; font-family: Helvetica, Arial, sans-seri
     -webkit-animation: slide 0.5s forwards;
     -webkit-animation-delay: 2s;
     animation: slide 2s forwards;
+    text-align: center;
     
 }
 
