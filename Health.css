@@ -97,7 +97,9 @@ label[for="nav-trigger"] {
 body {
 	/* Without this, the body has excess horizontal scroll when the menu is open */
   overflow-x: hidden;
+  background-image:url"https://static.pexels.com/photos/24746/pexels-photo-24746.jpg" ;
 }
+
 /* Additional non-critical styles */
 
 h1, h3, p {
@@ -124,11 +126,11 @@ html, body { height: 100%; width: 100%; font-family: Helvetica, Arial, sans-seri
 	max-width:350px;
 	height:150px;
 }
-/*body {
+body {
 	background:black;
 	color:white;
 	padding: -40px 0 0 0;
-}*/
+}
 
 /*h1 {
 	position: relative;
